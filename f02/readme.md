@@ -49,13 +49,13 @@ Nesta fase do treinamento foram estudados os conceitos fundamentais de programa�
 
 Ao final desta fase, fui capaz de:
 
-- Criar algoritmos para resolver problemas.
-- Utilizar variáveis, condicionais e loops.
-- Desenvolver scripts básicos em Python.
-- Versionar projetos utilizando Git.
-- Publicar e sincronizar projetos no GitHub.
-- Manter um histórico organizado de alterações em projetos.
-- Resolução de desafios práticos
-- Identificar e corrigir erros em scripts.
-- Trabalhar com commits, branches e tags.
-- Resolver desafios CTF.
+* Criar algoritmos para resolver problemas.
+* Utilizar variáveis, condicionais e loops.
+* Desenvolver scripts básicos em Python.
+* Versionar projetos utilizando Git.
+* Publicar e sincronizar projetos no GitHub.
+* Manter um histórico organizado de alterações em projetos.
+* Resolução de desafios práticos
+* Identificar e corrigir erros em scripts.
+* Trabalhar com commits, branches e tags.
+* Resolver desafios CTF.
