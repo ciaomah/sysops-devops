@@ -9,4 +9,3 @@ for tentativa in tentativas_login:
 print("Suspeitos:", suspeitos)
 print("Quantidade:", len(suspeitos))
 print("Pior caso:", max(suspeitos))
-
