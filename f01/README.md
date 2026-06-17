@@ -77,11 +77,14 @@ Foi adquirido conhecimentos fundamentais de computação, sistemas operacionais 
 
 ## Habilidades Desenvolvidas:
 
+Ao final desta fase, fui capaz de:
+
 * Navegação eficiente no sistema Linux.
 * Manipulação de arquivos e diretórios.
 * Gerenciamento básico de usuários e permissões.
 * Compreensão do funcionamento de processos e serviços.
 * Utilização do terminal como ferramenta principal de administração.
+* Criar e trabalhar com listas 
 * Resolução de desafios práticos utilizando comandos de linha de comando.
 * Resolver desafios CTF.
 
