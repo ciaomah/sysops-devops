@@ -106,7 +106,7 @@ Ao final desta fase, fui capaz de:
 * Interpretação de mensagens de erro e troubleshooting básico.
 * Resolução de desafios práticos de investigação utilizando ferramentas nativas do Linux.
 * Construção da base necessária para estudos de redes, segurança ofensiva e defensiva.
->>>>>>> 9a2557672d73f8f04740c9032dcf48d509557f90
+
 
 
 
