@@ -61,3 +61,9 @@ Via terminal:
 
   A cada nova requisição, o contador é incrementado e armazenado de forma persistente no PostgreSQL.
 
+---
+
+Este foi um dos projetos mais desafiadores do meu processo de estudos. Embora este projeto utilizasse **Flask**, eu ainda não havia estudado o framework de forma direta. Para superar este desafio, recorri à busca de fontes de consulta para compreender sua estrutura e aplicar, assim permitindo construir o projeto e também praticando e aprendendo sobre um novo conceito.
+
+Ao longo do desenvolvimento, diversos erros (pequenos) surgiram e precisaram ser investigados e corrigidos, exigindo persistência e aprendizado contínuo. Essa experiência reforçou a importancia da pesquisa, da resolução de problemas e da capacidade de aporender novas tecnologias durante o desenvolvimento de um projeto.
+
