@@ -3,26 +3,26 @@ name: artefatos
 on: push
 
 jobs:
-    gerar-relatorio:
+    gerar-manifesto:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-            - name: Produzir um relatorio
+            - name: Produzir um manifesto
               run: |
                 mkdir -p saida
-                echo "Relatorio do build $(date)" > saida/manifesto.txt
+                echo "Manifesto do build $(date)" > saida/manifesto.txt
                 echo "Commit: ${{ github.sha }}" >> saida/manifesto.txt
             - name: Guardar na prateleira
               uses: actions/upload-artifact@v4
               with:
-                name: relatorio-do-build
+                name: manifesto-do-build
                 path: saida/
 
-    usar-relatorio:
-        needs: gerar-relatorio
+    usar-manifesto:
+        needs: gerar-manifesto
         runs-on: ubuntu-latest
         steps:
             - uses: actions/download-artifact@v4
               with:
-                name: relatorio-do-build
+                name: manifesto-do-build
             - run: cat manifesto.txt
