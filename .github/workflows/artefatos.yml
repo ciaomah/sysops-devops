@@ -10,10 +10,19 @@ jobs:
             - name: Produzir um relatorio
               run: |
                 mkdir -p saida
-                echo "Relatorio do build $(date)" > saida/relatorio.txt
-                echo "Commit: ${{ github.sha }}" >> saida/relatorio.txt
+                echo "Relatorio do build $(date)" > saida/manifesto.txt
+                echo "Commit: ${{ github.sha }}" >> saida/manifesto.txt
             - name: Guardar na prateleira
               uses: actions/upload-artifact@v4
               with:
                 name: relatorio-do-build
                 path: saida/
+
+    usar-relatorio:
+        needs: gerar-relatorio
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/download-artifact@v4
+              with:
+                name: relatorio-do-build
+            - run: cat manifesto.txt
