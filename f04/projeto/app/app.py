@@ -45,6 +45,7 @@ def init_banco():
     cur.close()
     conn.close()
 
+
 def mensagem_boas_vindas():
     return {"esquadrao": "Bem vindo!", "status": "Online"}
 
@@ -66,7 +67,7 @@ def home():
     dados = mensagem_boas_vindas()
 
     return jsonify(
-        {"esquadrao": "Bem vindo!", "status": "Online", "visitas": total_visitas}
+        {**dados, "total_visitas": total_visitas,}
     )
 
 
