@@ -1,6 +1,6 @@
 name: artefatos
 
-on: push
+on: workflow_dispatch
 
 jobs:
     gerar-manifesto:
