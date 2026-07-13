@@ -16,5 +16,9 @@ jobs:
                 python-version: ${{ matrix.python-version }}
             - name: Install dependencies
               run: pip install pytest
-            - name: Run tests
+            - name: Teste f04
+              working-directory: f04/projeto
+              run: python -m pytest -v
+            - name: Teste f05
+              working-directory: f05
               run: python -m pytest -v
