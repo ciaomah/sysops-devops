@@ -27,9 +27,9 @@ jobs:
           pip install flake8
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Rodar linter (Flake8)
+      - name: Rodar linter (Ruff)
         run: |
-          flake8 . --max-line-length=120 --exclude=.git,__pycache__,.venv
+          ruff check . --max-line-length=120 --exclude=.git,__pycache__,.venv
 
       - name: Executar Testes Automatizados
         run: |
