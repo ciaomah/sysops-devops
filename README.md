@@ -1,4 +1,4 @@
-[![Python CI](https://github.com/ciaomah/cyber_studies/actions/workflows/py-ci.yml/badge.svg)](https://github.com/ciaomah/cyber_studies/actions/workflows/py-ci.yml) [![HTML CI](https://github.com/ciaomah/cyber_studies/actions/workflows/html-ci.yml/badge.svg)](https://github.com/ciaomah/cyber_studies/actions/workflows/html-ci.yml)
+ [![Esteira de CI/CD](https://github.com/ciaomah/cyber_studies/actions/workflows/f04-esteira.yml/badge.svg)](https://github.com/ciaomah/cyber_studies/actions/workflows/f04-esteira.yml)
 
 # Trilha Júnior Devops e Segurança
 Repositório dedicado para documentar minha jornada de aprendizado criando uma base sólida na área de Segurança.
