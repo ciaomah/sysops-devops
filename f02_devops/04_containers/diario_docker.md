@@ -1,6 +1,4 @@
 #  Fase 04
- Esse documento faz parte do roadmap de estudos em Cybersecurity. ->
-[Docker-f04](https://github.com/ciaomah/cyber_studies) <-
 
 (diário & resumo de algumas aulas)
 
