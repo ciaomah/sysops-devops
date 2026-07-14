@@ -27,5 +27,5 @@ jobs:
               working-directory: f02_devops/04_containers/projeto/
               run: python -m pytest -v
             - name: Teste f05
-              working-directory: f02_devops/05_cicd/conversor_app/
+              working-directory: f02_devops/05_cicd/
               run: python -m pytest -v
