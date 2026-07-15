@@ -1,11 +1,12 @@
  [![Esteira de CI/CD](https://github.com/ciaomah/sysops-devops/actions/workflows/f04-esteira.yml/badge.svg)](https://github.com/ciaomah/cyber_studies/actions/workflows/f04-esteira.yml)
 
 # Infrastructure, DevOps & Security Labs
-Repositório com laboratórios práticos, projetos e desafios desenvolvidos durante minha formação em Linux, DevOps e Segurança da Informação.
+
+#### Sobre este repositório
+Os laboratórios seguem um roadmap estruturado com projetos práticos e desafios desenvolvidos durante minha formação em Linux, DevOps e Segurança da Informação.
 Este repositório está em desenvolvimento contínuo e cada módulo representa uma etapa prática da minha formação. Novos projetos são adicionados continuamente conforme avanço no roadmap de estudos.
 
-## Objetivos
-
+#### Objetivos
 * Construir uma base sólida em Linux, Redes e Infraestrutura.
 * Desenvolver automações utilizando Bash e Python.
 * Aplicar conceitos de Docker e CI/CD em projetos práticos.
@@ -14,12 +15,7 @@ Este repositório está em desenvolvimento contínuo e cada módulo representa u
 
 ---
 
-#### Sobre este repositório
-Os laboratórios seguem um roadmap estruturado de formação em DevOps e Segurança da Informação. Todo o conteúdo é reproduzido e documentado neste repositório com implementações próprias, scripts e anotações técnicas.
-
----
-
-## Organização do Repositório
+## Organização do Repositório e Projetos em destaque:
 
 #### [F01 - Fundamentos](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos)
 Criando a base necessária para entender como a infraestrutura funciona.
@@ -29,7 +25,7 @@ Criando a base necessária para entender como a infraestrutura funciona.
 
 #### [F02 - DevOps](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops)
 Práticas modernas de automação, padronização e entrega contínua.
-* **[Containers Docker](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops/04_containers)** Criação de imagens, orquestração local e meu **[Diário docker](https://github.com/ciaomah/sysops-devops/blob/main/f02_devops/04_containers/diario_docker.md)**
+* **[Containers Docker](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops/04_containers)** Criação de imagens, orquestração local, meu **[Diário](https://github.com/ciaomah/sysops-devops/blob/main/f02_devops/04_containers/diario_docker.md)**. **[Projeto App](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops/04_containers/projeto)** e [Projeto Site](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops/04_containers/site)
 * **[CI/CD](https://github.com/ciaomah/sysops-devops/tree/main/f02_devops/05_cicd)** Automação de deploys e esteiras de integração contínua.
 
 ---
