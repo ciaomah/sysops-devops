@@ -39,7 +39,8 @@ curl http://localhost:8000
   A cada nova requisição, o contador é incrementado e armazenado de forma persistente no PostgreSQL.
 
 ---
-### Conceitos Praticados:
+
+#### Conceitos Praticados:
 **Docker**
 * Construção de imagens com Dockerfile
 * Criação de containers
