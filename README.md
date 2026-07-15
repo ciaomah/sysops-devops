@@ -5,9 +5,10 @@
 #### Sobre este repositório
 Os laboratórios seguem um roadmap estruturado com projetos práticos e desafios desenvolvidos durante minha formação em Linux, DevOps e Segurança da Informação.
 Este repositório está em desenvolvimento contínuo e cada módulo representa uma etapa prática da minha formação. Novos projetos são adicionados continuamente conforme avanço no roadmap de estudos.
-
 Cada módulo possui documentação, comandos praticados e aprendizados técnicos.
+
 ---
+
 ## Organização do Repositório e Projetos em destaque:
 
 #### [F01 - Fundamentos](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos)
