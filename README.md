@@ -6,15 +6,8 @@
 Os laboratórios seguem um roadmap estruturado com projetos práticos e desafios desenvolvidos durante minha formação em Linux, DevOps e Segurança da Informação.
 Este repositório está em desenvolvimento contínuo e cada módulo representa uma etapa prática da minha formação. Novos projetos são adicionados continuamente conforme avanço no roadmap de estudos.
 
-#### Objetivos
-* Construir uma base sólida em Linux, Redes e Infraestrutura.
-* Desenvolver automações utilizando Bash e Python.
-* Aplicar conceitos de Docker e CI/CD em projetos práticos.
-* Resolver desafios de CTF e laboratórios de Segurança da Informação.
-* Documentar a evolução técnica através de projetos reproduzíveis e boas práticas.
-
+Cada módulo possui documentação, comandos praticados e aprendizados técnicos.
 ---
-
 ## Organização do Repositório e Projetos em destaque:
 
 #### [F01 - Fundamentos](https://github.com/ciaomah/sysops-devops/tree/main/f01_fundamentos)
@@ -30,5 +23,4 @@ Práticas modernas de automação, padronização e entrega contínua.
 
 ---
 #### Tecnologias
-
-Linux · Bash · Python · Git & GitHub · Docker · GitHub Actions · AWS · Redes (TCP/IP) · Securança · CI/CD
+🐧 Linux | 🐚 Bash | 🐍 Python | 🛜 Redes (TCP/IP) | 🔧 Git | 🐙 GitHub | 🐳 Docker | 🌐 Nginx | 🔄 CI/CD | 🔄 GitHub Actions | 🔐 Security Practices | ☁️ AWS
